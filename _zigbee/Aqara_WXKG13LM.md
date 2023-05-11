@@ -7,7 +7,7 @@ category: remote
 supports: action, battery
 action: single, double, triple, quintuple, hold, release, many
 zigbeemodel: ['lumi.remote.b1acn02']
-compatible: [z2m]
+compatible: [z2m][zha]
 mlink: https://www.aqara.com/cn/productDetail/d21
 link: 
 ---
